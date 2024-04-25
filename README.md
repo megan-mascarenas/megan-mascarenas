@@ -1,6 +1,4 @@
-⌬ Hi, I’m @megan-mascarenas
-⌬ I’m interested in computational chemistry (DFT) and data analytics
-⌬ I’m currently learning how to use GitHub
+Hi, I’m @megan-mascarenas! I am a data analyst with a focus on computational chemistry (DFT).
 
 <!---
 megan-mascarenas/megan-mascarenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
